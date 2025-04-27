@@ -11,3 +11,5 @@ This is my first post written in **Markdown**.
 
 * It's easy!
 * It's fun!
+
+![My test Image 1](/assets/images/421-4215468_-png-png-gift.png "Test Image 2")

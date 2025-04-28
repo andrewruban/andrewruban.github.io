@@ -1,6 +1,6 @@
 ---
 layout: post # Specifies which layout file to use (_layouts/post.html)
-title:  "how2create-blog-on-jekyll"
+title:  "how2 create static blog on github and jekyll"
 date:   2025-04-27 10:01:00 +0000 # Optional: specific time/timezone
 categories: jekyll update # Optional: categories for organization
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post # Specifies which layout file to use (_layouts/post.html)
-title:  "how2: create Post with Diagrams"
+title:  "how2: create Post with Diagrams - 1"
 date:   2025-04-28 10:00:00 +0000 # Optional: specific time/timezone
 categories: jekyll update # Optional: categories for organization
 ---
